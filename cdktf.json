@@ -1,0 +1,15 @@
+{
+  "language": "typescript",
+  "app": "npx ts-node main.ts",
+  "projectId": "402c783b-3972-4b9d-84d1-b92b68a22f9a",
+  "sendCrashReports": "true",
+  "terraformProviders": [
+    "kreuzwerker/docker@~> 2.22",
+    "google@~>4.0"
+  ],
+  "terraformModules": [],
+  "context": {
+    "excludeStackIdFromLogicalIds": "true",
+    "allowSepCharsInLogicalIds": "true"
+  }
+}
