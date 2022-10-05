@@ -1,5 +1,5 @@
 {
-  "name": "learn-cdktf-docker",
+  "name": "cdktf-gcp",
   "version": "1.0.0",
   "main": "main.js",
   "types": "main.ts",
